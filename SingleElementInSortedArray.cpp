@@ -6,6 +6,8 @@
 // Example 1:
 // Input: nums = [1,1,2,3,3,4,4,8,8]
 // Output: 2
+ #include <vector>
+using namespace std;
 
 class Solution {
 public:
